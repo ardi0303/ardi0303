@@ -49,4 +49,4 @@ Full stack developer with experience in building modern applications and a stron
 ---
 
 ### 📫 Let's Connect!
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/ardi-saputra-b49785279)
+- 💼 LinkedIn: [Ardi Saputra](https://linkedin.com/in/ardi-saputra-b49785279)
