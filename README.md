@@ -43,9 +43,10 @@ Full stack developer with experience in building modern applications and a stron
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ardi0303&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardi0303&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
